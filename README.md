@@ -9,5 +9,7 @@ Each file includes:
 ---
 
 ### Solved Problems
-- [120. Triangle (Medium)](120_triangle.cpp)
+### Medium
+- [120. Triangle](120_triangle.cpp)
 - [838. Push Dominoes](838_push_dominoes.cpp)
+- [2962. Count Subarrays Where Max Element Appears at Least K Times](2962_count_subarrays_max_k.cpp)
