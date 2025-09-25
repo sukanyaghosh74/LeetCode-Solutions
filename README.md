@@ -10,3 +10,4 @@ Each file includes:
 
 ### Solved Problems
 - [120. Triangle (Medium)](120_triangle.cpp)
+- [838. Push Dominoes](838_push_dominoes.cpp)
